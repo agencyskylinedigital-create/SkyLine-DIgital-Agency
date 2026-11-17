@@ -45,7 +45,7 @@ export const SKYLINE_SOCIAL_LINKS: SocialLinkItem[] = [
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    url: SKYLINE_INSTAGRAM_URL,
+    url: www.linkedin.com/in/skyline-digital-agency-678585450,
     brandHex: '#0A66C2',
   },
   {
