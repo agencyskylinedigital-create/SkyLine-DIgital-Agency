@@ -25,6 +25,8 @@ export const SKYLINE_PRIMARY_PHONE_DISPLAY = '+91 86430 02478';
 export const SKYLINE_SACHIN_PHONE_DISPLAY = '+91 89591 44686';
 export const SKYLINE_EMAIL = 'agencyskylinedigital@gmail.com';
 export const SKYLINE_INSTAGRAM_URL = 'https://www.instagram.com/sky_line_digital';
+export const SKYLINE_LINKDIN_URL = 'www.linkedin.com/in/skyline-digital-agency-678585450';
+export const SKYLINE_GITHUB_URL = 'https://github.com/agencyskylinedigital-create';
 export const SKYLINE_LOCATION = 'Indore, Madhya Pradesh, India';
 export const SKYLINE_SHORT_LOCATION = 'Indore, MP, India';
 
@@ -39,13 +41,13 @@ export const SKYLINE_SOCIAL_LINKS: SocialLinkItem[] = [
   {
     id: 'github',
     label: 'GitHub',
-    url: SKYLINE_INSTAGRAM_URL,
+    url: SKYLINE_GITHUB_URL,
     brandHex: '#181717',
   },
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    url: www.linkedin.com/in/skyline-digital-agency-678585450,
+    url: SKYLINE_LINKDIN_URL ,
     brandHex: '#0A66C2',
   },
   {
